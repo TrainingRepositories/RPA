@@ -1,0 +1,17 @@
+# .vscode
+.vscode/launch.json 
+
+# Env files
+.env*
+*.env
+ 
+# Python Environment folder 
+.env/*
+ 
+# No neeeds ...
+## Pythons 
+*-checkpoint.ipynb
+*-checkpoint.html
+
+__pycache__/
+*.pyc  
