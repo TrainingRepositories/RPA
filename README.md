@@ -38,8 +38,8 @@ Created by Abdulwahab Alanazi
     <tr>
         <td><img src="assets/py.png" width="50" height="50" alt="Python"></td>
         <td style="text-align:center; font-weight:bold; border-bottom: 1px solid #ccc;">Error Handling and File Handling</td>
-        <td><a href="https://colab.research.google.com/github/TrainingRepositories/RPA-101/blob/main/PYTHON%20101/3%20%20Control%20Structures%20and%20Functions/Control%20Structures%20and%20Functions.ipynb"><img src="assets/gc.png" width="50" height="50" alt="Google Colab"></a></td>
-        <td><a href="https://github.com/TrainingRepositories/RPA-101/blob/main/PYTHON%20101/3%20%20Control%20Structures%20and%20Functions/Control%20Structures%20and%20Functions.ipynb"><img src="assets/gh.png" width="50" height="50" alt="GitHub"></a></td>
+        <td><a href="https://colab.research.google.com/github/TrainingRepositories/RPA-101/blob/main/PYTHON%20101/4%20Error%20Handling%20and%20File%20Handling%20/Error%20Handling%20and%20File%20Handling.ipynb "><img src="assets/gc.png" width="50" height="50" alt="Google Colab"></a></td>
+        <td><a href="https://github.com/TrainingRepositories/RPA-101/blob/main/PYTHON%20101/4%20Error%20Handling%20and%20File%20Handling%20/Error%20Handling%20and%20File%20Handling.ipynb"><img src="assets/gh.png" width="50" height="50" alt="GitHub"></a></td>
         <td><a href="#"><img src="assets/yt.png" width="50" height="50" alt="YouTube"></a></td>
     </tr>
     <tr>
