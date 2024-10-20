@@ -1,5 +1,9 @@
 # RPA-101
 
+Created by Abdulwahab Alanazi
+
+[LinkedIn](http://linkedin.com/in/abdulwahabdev) | [GitHub](https://github.com/AbdulwahabDev)
+
 # Course Lectures
  
 <table style="width:100%;"> 
@@ -74,3 +78,4 @@
         <td><a href="#"><img src="assets/yt.png" width="50" height="50" alt="YouTube"></a></td>
     </tr>
 </table>
+
