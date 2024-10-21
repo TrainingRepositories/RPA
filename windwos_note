@@ -1,0 +1,10 @@
+
+Set-ExecutionPolicy Unrestricted -Force
+
+dont forget sys.excutable
+
+
+
+ pip install pip-tools
+ python -m pip install --upgrade pip
+
