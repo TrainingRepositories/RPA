@@ -1,0 +1,18 @@
+
+{
+    "version": "0.2.0",
+    "compounds": [], 
+    "configurations": [     
+
+        // rag-Jupyter
+        {
+            "name": "rag-Jupyter", 
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/.env/bin/jupyter-lab",
+            "cwd": "${workspaceFolder}/",
+            "python": "${workspaceFolder}/.env/bin/python",
+            "consoleTitle": "rag-Jupyter", 
+        }, 
+    ]
+}
