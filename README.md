@@ -1,10 +1,6 @@
 # RPA-101
 
-Created by Abdulwahab Alanazi
-
-[LinkedIn](http://linkedin.com/in/abdulwahabdev) | [GitHub](https://github.com/AbdulwahabDev)
-
-# Course Lectures
+ 
  
 <table style="width:100%;"> 
     <tr>
