@@ -21,7 +21,7 @@
     <tr>
         <td><img src="assets/py.png" width="15" height ="10" alt="Python"></td>
         <td style="text-align:center; font-weight:bold; border-bottom: 1px solid #ccc;">Python Data Types and Operations</td>
-        <td><a href="https://loud-iberis-61b.notion.site/Data-Types-and-Operations-12541d33cda980c983b0d4511916160c?pvs=4"><img src="assets/no.png" width="15" height ="10" alt="YouTube"></a></td>
+        <td><a href="https://loud-iberis-61b.notion.site/Data-Types-and-Operations-12541d33cda980c983b0d4511916160c"><img src="assets/no.png" width="15" height ="10" alt="YouTube"></a></td>
         <td><a href="https://colab.research.google.com/github/TrainingRepositories/RPA-101/blob/main/PYTHON%20101/1%20Python_Data_Types_and_Operations/Python_Data_Types_and_Operations.ipynb"><img src="assets/gc.png" width="15" height ="10" alt="Google Colab"></a></td>
         <td><a href="https://github.com/TrainingRepositories/RPA-101/blob/main/PYTHON%20101/1%20Python_Data_Types_and_Operations/Python_Data_Types_and_Operations.ipynb"><img src="assets/gh.png" width="15" height ="10" alt="GitHub"></a></td>
         <td><a href="#"><img src="assets/yt.png" width="15" height ="10" alt="YouTube"></a></td>
@@ -32,14 +32,6 @@
         <td><a href="https://loud-iberis-61b.notion.site/BuiltIn-Functions-Keywords-12541d33cda980b1970adb69d9ff1a6c?pvs=4"><img src="assets/no.png" width="15" height ="10" alt="YouTube"></a></td>
         <td><a href="https://colab.research.google.com/github/TrainingRepositories/RPA-101/blob/main/PYTHON%20101/2%20Python%20BuiltIn%20Functions%20Keywords/Python_BuiltIn_Functions_Keywords.ipynb"><img src="assets/gc.png" width="15" height ="10" alt="Google Colab"></a></td>
         <td><a href="https://github.com/TrainingRepositories/RPA-101/blob/main/PYTHON%20101/2%20Python%20BuiltIn%20Functions%20Keywords/Python_BuiltIn_Functions_Keywords.ipynb"><img src="assets/gh.png" width="15" height ="10" alt="GitHub"></a></td>
-        <td><a href="#"><img src="assets/yt.png" width="15" height ="10" alt="YouTube"></a></td>
-    </tr>
-    <tr>
-        <td><img src="assets/py.png" width="15" height ="10" alt="Python"></td>
-        <td style="text-align:center; font-weight:bold; border-bottom: 1px solid #ccc;">Control Structures and Functions</td>
-        <td><a href="#"><img src="assets/no.png" width="15" height ="10" alt="YouTube"></a></td>
-        <td><a href="https://colab.research.google.com/github/TrainingRepositories/RPA-101/blob/main/PYTHON%20101/3%20%20Control%20Structures%20and%20Functions/Control%20Structures%20and%20Functions.ipynb"><img src="assets/gc.png" width="15" height ="10" alt="Google Colab"></a></td>
-        <td><a href="https://github.com/TrainingRepositories/RPA-101/blob/main/PYTHON%20101/3%20%20Control%20Structures%20and%20Functions/Control%20Structures%20and%20Functions.ipynb"><img src="assets/gh.png" width="15" height ="10" alt="GitHub"></a></td>
         <td><a href="#"><img src="assets/yt.png" width="15" height ="10" alt="YouTube"></a></td>
     </tr>
     <tr>
