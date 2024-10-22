@@ -1,0 +1,18 @@
+
+{
+    "version": "0.2.0",
+    "compounds": [], 
+    "configurations": [     
+
+        // Jupyter
+        {
+            "name": "Jupyter", 
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/.env/Scripts/jupyter-lab.exe",
+            "cwd": "${workspaceFolder}/",
+            "python": "${workspaceFolder}/.env/Scripts/python",
+            "consoleTitle": "Jupyter", 
+        }
+    ]
+}
