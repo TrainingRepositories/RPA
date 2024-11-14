@@ -1,0 +1,31 @@
+/* Element Selector */
+p {
+    color: blue;
+  }
+  
+  /* Class Selector */
+  .highlight {
+    background-color: yellow;
+  }
+  
+  /* ID Selector */
+  #header {
+    font-size: 24px;
+  }
+
+ 
+
+  div.a{
+    background-color: yellow;
+
+  }
+
+  p.a{
+    background-color: red;
+
+    
+  }
+
+  .test{
+    background-color: blue;
+  }
