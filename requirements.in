@@ -1,2 +1,4 @@
 jupyterlab
 FastAPI
+openpyxl
+pyautogui==0.9.54
