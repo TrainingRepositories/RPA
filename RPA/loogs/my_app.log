@@ -1,0 +1,11 @@
+2024-11-18 18:59:45,738 - logger - INFO - Logging initialized successfully
+2024-11-18 19:00:52,056 - logger - ERROR - this is error
+2024-11-18 19:02:05,967 - logger - INFO - Starting RPA process
+2024-11-18 19:02:05,968 - logger - INFO - Performing web automation task
+2024-11-18 19:02:05,969 - logger - ERROR - An error occurred in the RPA process
+2024-11-18 19:02:05,971 - logger - ERROR - Error details: Traceback (most recent call last):
+  File "/var/folders/hq/scvbwj_55y366k5jlzy80rx40000gn/T/ipykernel_45909/562501016.py", line 9, in <module>
+    x = int("sdgsdhkbds")
+ValueError: invalid literal for int() with base 10: 'sdgsdhkbds'
+
+2024-11-18 19:02:05,972 - logger - INFO - RPA process completed
